@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TheAiClasses/static/css/main.f86cedf1.chunk.css",
+    "main.js": "/TheAiClasses/static/js/main.8e702193.chunk.js",
+    "main.js.map": "/TheAiClasses/static/js/main.8e702193.chunk.js.map",
+    "runtime~main.js": "/TheAiClasses/static/js/runtime~main.198d8361.js",
+    "runtime~main.js.map": "/TheAiClasses/static/js/runtime~main.198d8361.js.map",
+    "static/css/2.17f5e74d.chunk.css": "/TheAiClasses/static/css/2.17f5e74d.chunk.css",
+    "static/js/2.edc43b90.chunk.js": "/TheAiClasses/static/js/2.edc43b90.chunk.js",
+    "static/js/2.edc43b90.chunk.js.map": "/TheAiClasses/static/js/2.edc43b90.chunk.js.map",
+    "index.html": "/TheAiClasses/index.html",
+    "precache-manifest.80886d5069455c200bc77064f6b655de.js": "/TheAiClasses/precache-manifest.80886d5069455c200bc77064f6b655de.js",
+    "service-worker.js": "/TheAiClasses/service-worker.js",
+    "static/css/2.17f5e74d.chunk.css.map": "/TheAiClasses/static/css/2.17f5e74d.chunk.css.map",
+    "static/css/main.f86cedf1.chunk.css.map": "/TheAiClasses/static/css/main.f86cedf1.chunk.css.map",
+    "static/media/imbeside.png": "/TheAiClasses/static/media/imbeside.87371574.png",
+    "static/media/mental.svg": "/TheAiClasses/static/media/mental.b96c012a.svg",
+    "static/media/smallcam.svg": "/TheAiClasses/static/media/smallcam.c7dc1726.svg",
+    "static/media/snap.svg": "/TheAiClasses/static/media/snap.a1a90a68.svg",
+    "static/media/student.svg": "/TheAiClasses/static/media/student.6c306434.svg"
+  }
+}
