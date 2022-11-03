@@ -1,3 +1,10 @@
+# imbesideyou Intern Application
+## Name: Mohsin Iftekhar
+## University: Indian institute of technology Dhanbad (IIT DHANBAD)
+## Department: Electrical Engineering
+## Admission Number: 20je0579
+## Email:20je0579@ee.iitism.ac.in
+
 # Welcome to Next Generation Online Education
 I created an app using **React.js** and **face-api.js** for **detecting emotions** , **creating realtime face-mesh** ,**detecting gender** and **predicting age** of students using models.
 <!-- App created on top of **face-api.js** used for detecting **face emotions** and creating **face mesh** in realtime. App uses users **webcam** to create video stream and uses models to detect faces and emotions. -->
@@ -31,6 +38,8 @@ AI generates **face mesh** and predicts **facial expressions**,**age** and **gen
 ### If AI is implemented on Backend
 1. When AI is implemented on backend client browser processes and sends video to backend AI.
 2. Backend AI analyzes the data of video and sends a response to express app.
+
+
 3. Express App then sends the response to client Browser.
 #### Advantages
 1. Accuracy is high.with large computing power.
@@ -40,25 +49,37 @@ AI generates **face mesh** and predicts **facial expressions**,**age** and **gen
 1. Process of Sending realtime video to backend servers for analyzation would lead to excessive delays.
 2. Bad experience.
 ### IMAGES
-![Header ](github-images/Front-Page.jpeg)
+![Header ](Front-Page.jpeg)
 #### Features
-![Feature1](github-images/Features.jpeg)
-![Feature2](github-images/Features2.jpeg)
+![Feature1](Features.jpeg)
+![Feature2](Features2.jpeg)
 #### AI in Action
-![Action](github-images/Demo.jpeg)
+![Action](Demo.jpeg)
 
 #### I have implemented 4 different modes of operations
 1. ClassMode-In this Mode AI produces the face Mesh and displays Various emotion of the student during the course of the class.
 2. TestMode-In this Mode AI detects the face and if multiple faces are detected Warning is issued.
 3. VideoMode-In this Video Stream runs and AI produces realtime Facemesh and displays desired results based on ClassMode and TestMode.
 4. SnapShot-In this Snapshots can be taken and desired results are displayed based on the image captured by Snapshot.  
-![Modes](github-images/Modes.jpeg)
+![Modes](Modes.jpeg)
 #### ClassMode 
-![Happy](github-images/Happy.jpeg)
-![Surprised](github-images/Surprised.jpeg)
+![Happy](Happy.jpeg)
+![Surprised](Surprised.jpeg)
 #### Snapshot Mode
-![GalleryFunction](github-images/GalleryFunction.jpeg)
+![GalleryFunction](GalleryFunction.jpeg)
 #### TestMode
-![NoIssue](github-images/NoIssue.jpeg)
-![MultipleFace](github-images/MultipleFace.jpeg)
+![NoIssue](NoIssue.jpeg)
+![MultipleFace](MultipleFace.jpeg)
 
+## Running the server
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Mohsin-iftekhar/TheAiClasses.git
+```
+## Demo
+```bash
+Check Live site here: https://main--harmonious-lily-10ada8.netlify.app/ 
+```
+Deployed on netlify
