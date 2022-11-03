@@ -1,0 +1,125 @@
+.camera {
+  width: 100%;
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  border-radius: 100px;
+}
+p.scroll_down
+{
+	font-size: 20px;
+    color: white;
+}
+.camera__wrapper {
+  position: relative;
+  width: 80%;
+  max-width: 680px;
+  margin: 0 1rem 1rem;
+  border-radius: 20px;
+  border-style:double;
+  /* background: rgb(40,44,52); */
+}
+.webcam:hover{
+ cursor: pointer;
+}
+.webcam1{
+  color: wheat;
+}
+.camera_wrapper2{
+  position: relative;
+  width: 80%;
+  height: 520px;
+  max-width: 680px;
+  margin: 0 1rem 1rem;
+  border-radius: 100px;
+  background-color: rgb(238, 220, 220);
+  background: rgb(55,65,81);
+    background-size: cover;
+   background-blend-mode: darken;
+   color: white;
+}
+.camera_wrapper3:hover{
+  cursor: pointer;
+}
+.camera_wrapper33{
+
+  padding-top: 25%;
+  padding-left: 30%;
+  padding-right: 30%;
+  
+  /* height:10px; */
+  }
+  .camera_wrapper32{
+    color: black;
+  }
+  .camera_wrapper32:hover{
+    cursor: pointer;
+  
+    /* padding-top: 80%;
+    padding-left: 80%;
+    padding-right: 0px; */
+  }
+.camera_wrapper3{
+
+
+  padding-left: 30%;
+  padding-right: 30%;
+  
+  /* height:10px; */
+  }
+.camera__wrapper video {
+  border: 3px solid #fff;
+  border-radius: 100px;
+}
+
+.camera__button-container {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+.camera__button--snap {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.webcam-overlay {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.webcam-overlay--hidden {
+  display: none;
+}
+
+.results__container {
+  background-color: #fff;
+  background: white;
+  width: 100%;
+  padding-top: 1rem;
+  height:auto;
+  display: flex;
+  justify-content: center;
+  color:white;
+  border-radius: 100px;
+}
+
+.results__wrapper {
+  padding: 1rem 0 0 1rem;
+}
+
+@media only screen and (min-width: 768px) {
+  .camera__wrapper {
+    width: 100%;
+    margin: 0 1rem 1rem;
+  }
+
+  .results__wrapper {
+    padding: 0;
+  }
+}
