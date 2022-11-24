@@ -1,4 +1,3 @@
-# imbesideyou Intern Application
 ## Name: Mohsin Iftekhar
 ## University: Indian institute of technology Dhanbad (IIT DHANBAD)
 ## Department: Electrical Engineering
